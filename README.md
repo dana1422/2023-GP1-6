@@ -58,12 +58,7 @@
  ~~~
 pip install -r requirements.txt
  ~~~
- #### 4- Make your migrations
- ~~~
-python manage.py makemigrations
-python manage.py migrate
- ~~~
-   #### 5- Run server
+ #### 4- Run server
  ~~~
 python manage.py runserver
  ~~~
