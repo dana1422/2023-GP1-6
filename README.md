@@ -1,7 +1,7 @@
 # 2023-GP1-6
 <p align="center">
 
- <img width="300" alt="logo" src="">
+ <img width="300" alt="logo" src="https://i.ibb.co/DWQztV0/last-logo.png">
 
 
 </p>
